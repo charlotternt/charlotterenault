@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/charlotterenault/static/css/main.141e24b0.css",
+    "main.js": "/charlotterenault/static/js/main.0219da4d.js",
+    "static/js/787.1ed0c42c.chunk.js": "/charlotterenault/static/js/787.1ed0c42c.chunk.js",
+    "static/media/maquette.png": "/charlotterenault/static/media/maquette.ed286c95dca8478ea028.png",
+    "static/media/profil.png": "/charlotterenault/static/media/profil.36e4a22767c5ad402372.png",
+    "static/media/puissance.png": "/charlotterenault/static/media/puissance.397c615c86913fcb0bb1.png",
+    "static/media/battleship.png": "/charlotterenault/static/media/battleship.75838cabe21491cea303.png",
+    "static/media/Irc.png": "/charlotterenault/static/media/Irc.d3b2316446ed70ec2d9d.png",
+    "index.html": "/charlotterenault/index.html",
+    "main.141e24b0.css.map": "/charlotterenault/static/css/main.141e24b0.css.map",
+    "main.0219da4d.js.map": "/charlotterenault/static/js/main.0219da4d.js.map",
+    "787.1ed0c42c.chunk.js.map": "/charlotterenault/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.141e24b0.css",
+    "static/js/main.0219da4d.js"
+  ]
+}
